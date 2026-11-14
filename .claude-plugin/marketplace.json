@@ -1,0 +1,16 @@
+{
+  "name": "study-plugins",
+  "owner": {
+    "name": "mochico50"
+  },
+  "metadata": {
+    "description": "学びを Claude に伴走してもらうためのプラグイン集"
+  },
+  "plugins": [
+    {
+      "name": "shikaku",
+      "source": "./plugins/shikaku",
+      "description": "資格勉強の伴走。試験を調べ、自分用のスケジュールを引き、毎回の学習を同じ形で回す"
+    }
+  ]
+}
