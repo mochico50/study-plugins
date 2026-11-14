@@ -1,6 +1,6 @@
 {
   "name": "shikaku",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "資格勉強の伴走。最初の設定（init）、試験を調べる（research）、自分用のスケジュールを引く（schedule）、毎回の学習を同じ形で回す（study）、いまの状態（status）、使い方の案内（help）",
   "author": {
     "name": "mochico50"
