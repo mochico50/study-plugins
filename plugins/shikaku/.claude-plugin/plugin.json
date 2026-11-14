@@ -1,0 +1,10 @@
+{
+  "name": "shikaku",
+  "version": "0.1.0",
+  "description": "資格勉強の計画（shikaku-keikaku）、自分用のセットアップ（shikaku-setup）、毎回の学習（shikaku-gakushu）",
+  "author": {
+    "name": "mochico50"
+  },
+  "repository": "https://github.com/mochico50/study-plugins",
+  "license": "MIT"
+}
