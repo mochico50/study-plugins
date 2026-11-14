@@ -1,7 +1,7 @@
 {
   "name": "shikaku",
   "version": "0.1.0",
-  "description": "資格勉強の計画（shikaku-keikaku）、自分用のセットアップ（shikaku-setup）、毎回の学習（shikaku-gakushu）",
+  "description": "資格勉強の伴走。試験を調べて計画し（keikaku）、自分用のスケジュールを引き（setup）、毎回の学習を同じ形で回す（gakushu）",
   "author": {
     "name": "mochico50"
   },
