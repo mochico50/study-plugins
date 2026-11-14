@@ -61,6 +61,16 @@ flowchart TD
 
 複数人で進捗を見せ合うなら Notion、1人で手軽に試すならファイルが向いています。
 
+ファイルの場合は、こう並びます。
+
+```
+shikaku/
+├── settings.md              最初の設定
+└── aws-clf/
+    ├── README.md            資格ページ（共用）
+    └── progress-<名前>.md   進捗ページ（個人）
+```
+
 ## 入れ方
 
 Claude Code の場合：
